@@ -1,0 +1,25 @@
+h1{
+    color: #025157; font-size: 50px;
+}
+
+h2{
+    color: #46484c; font-size: 28px;
+}
+
+body{
+    background-color: white;
+}
+
+.textopublicitario{
+    color: teal; 
+    font-size: 21px;
+}
+
+p{
+    font-size: 17px ;
+}
+
+button{
+    background-color: #025157; 
+    color: #fff;
+}
